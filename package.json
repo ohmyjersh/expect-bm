@@ -1,0 +1,22 @@
+{
+  "name": "expect-bm",
+  "version": "1.0.0",
+  "description": "expect for benchmarking",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohmyjersh/expect-bm.git"
+  },
+  "author": "ohmyjersh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohmyjersh/expect-bm/issues"
+  },
+  "homepage": "https://github.com/ohmyjersh/expect-bm#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
